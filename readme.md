@@ -12,5 +12,4 @@ Small game developer!
 Coding time might be wrong 😔
  <p>
     <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=853&api_domain=hackatime.hackclub.com&theme=gruvbox&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Dimkauzh" width=420"/>
-    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=dimkauzh&count_private=true&show_icons=true&theme=gruvbox&line&include_orgs=true" alt="Dimkauzh" width="420"/> 
  </p>
