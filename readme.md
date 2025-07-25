@@ -6,7 +6,7 @@ Small game developer!
 - Creating small game engines or small games, with some embedded/system work sometimes.
 - I know Go and Nix, with some C/C++ and Odin. I’m currently learning zig.
 - Reach out to me with @dimkauzh on pretty much all platforms.
-- Mostly work at @vuelto-org and @yukimidesu.
+- Mostly work on Raccoon, or @YukimiDesu.
 
  ### ⭐ Coding Stats
 Coding time might be wrong 😔
