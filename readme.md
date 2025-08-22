@@ -8,6 +8,9 @@ Small game developer!
 - Reach out to me with @dimkauzh on pretty much all platforms.
 - Mostly work on Raccoon, or @YukimiDesu.
 
+### 🗃️ Repositories
+My main work is being done on my [Codeberg profile (@dimkauzh)](https://codeberg.org/dimkauzh) with it also being mirrored to my [GithHub profile](https://github.com/dimkauzh)
+
  ### ⭐ Coding Stats
 Coding time might be wrong 😔
  <p>
